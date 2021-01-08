@@ -1,0 +1,387 @@
+- Keywords:#Projects #P1
+Start date: [[December 29th, 2020]] [[January 2nd, 2021]]
+Due Date: [[January 1st, 2021]]
+Goal: To create a post to refer people to when motivating them to invest. 
+- ---
+- [[Project Todo's]] #P1
+    - {{[[TODO]]}} Create blog post on filtering podcast playlists for what you want to listen to. #[[Blog Ideas]]
+    - Promotion:
+        - {{[[TODO]]}} Suggest to people that are interested in investing that I could give a talk on [[Intro to Investing]] via zoom. Message facebook Liverpool groups, societies.
+            - offer to give talk for investment society and math society. Write a post to determine interest for blog andd talks. On FB groups relevant to Liverpoolstudents. 
+        - {{[[TODO]]}} Get Sam/Sean to look over it. 
+        - {{[[TODO]]}}  message kyle draft before publish.  and sean . 
+        - {{[[TODO]]}} Create a template message for sending to people with the blog link. Do after you have an outline.
+            - {{[[TODO]]}} Hello, by now you probably know I have a blog. If you have time/are interested would you like to read my new post on an introduction to budgeting and investing for those new to it?
+        - {{[[TODO]]}} Twitter/Linkedin tags:
+            - {{[[TODO]]}} Wealthify, Robo-advisor, intro to investing, crashcourse, homework
+        - {{[[TODO]]}} [[Finance People]]
+- ---
+- #brainstorm
+    - {{[[TODO]]}} Title Ideas:  [*]({{[[DONE]]}} Title Ideas:)
+        - Investing for the working class person without time [[Intro to Investing]] [*]()
+        - Get your investing journey started right.  [*](((aC48H9UF6)))
+        - Smart investing is no longer for the rich. [*](((aC48H9UF6)))
+    - Think about where you want to be in 5 years [[Goals: Finance]]. Write your ideas done and put somewhere you can see regularly.  [*](((PrA7hjM6l)))
+    - The safest way to invest and beat inflation is do through index funds which **diversify** the specific risk of individual companies. As we are not financial advisors its best to hand this job over lowest cost method possible the Robo-advisor. A Robo-advisor will periodically purchase stocks and rebalance your portfolio under the guideline of financial experts. No advisors trying you get you commission-based financial products.  [*](((XUIXhTzUX)))
+    - I want to motivate you to become a lazy disinterested passive investor, mindlessly putting away your income into investments as soon as you earn it. [*](((2FZaV7Pqb)))
+        - Understand the amount you need to be comfortable what is enough, while taking care of future you.   [*](((iiNBRXDZ9)))
+        - Dont obsesse over your holdings as they go up and down: think long term.  [*](((yyuGIJbx8)))
+        - Dont read the news [*](((wC-CK00kW)))
+    - Lessons from my first year being introduced to investing [*]()
+        - Initially I spent a long time checking the news [*]()
+        - I bought things I shouldnt have I did not do enough research. [*](((B6F4Lued2)))
+        - move to indexes [*](((95HfOZ-Fi)))
+    -  [*]()
+        - What is investing and why you should start. [*]()
+            - What is it? [*]()
+                - Basically, it is the action of taking on risk to earn potential returns. [*](((yGSV2WO3t)))
+                - [The Fundamentals | Why is Investing Important?](https://www.youtube.com/watch?v=I81xqr8HzBE&list=PLD18sR-9Y-XHGlrT_3aKElcyzz9eTDGsy&index=2&ab_channel=ThePlainBagel) [*](((RGVrlEmyo)))
+            - Possible reasons for getting started investing: [*](((Bj0k2TVjb)))
+                - You want to put to left over cash to work. [*](((tQi1NZEn5)))
+                - You want to retain the purchasing power of your hard earned money (defeat inflation). [*](((MPLI20jjw)))
+            - What do the greats recommend?  [*](((D7oDHmdk5)))
+                - Who are they: Warren Buffet,  [*]({{[[TODO]]}} Who are they:)
+            - What are index funds?  [*](What are index funds? )
+                - Avoid exorbitant fees. [*](((PCeAGWFGo)))
+                - Here's an expert discussing them.  [*](((MeSKu8QUy)))
+                    - [Reasons (not) To Avoid Index Funds](https://www.youtube.com/watch?v=fvGLnthJDsg&list=PLiOs3-llXq5DAQ7zHA9ZiFOMLQ-VPzvYs&index=4&ab_channel=BenFelix) [*](((J25JJKb9K)))
+                - All about quality of life. [*](All about quality of life.)
+                - You and I are not special, no one can accurcately predict the future on a regular basis.. so why not go with the flow.  [*](You and I are not special, no one can accurcately predict the future on a regular basis.. so why not go with the flow. )
+            - I hopefully motivate you to move from holding cash in a savings account to using Robo investor.  [*](((2FZaV7Pqb)))
+            - My top investing websites, YouTube channels and podcasts that content-filled and avoid faff. [*](((n0BfR6od3)))
+                - Youtube channels: [*](((xOL3ACrbO)))
+                    - Plain Bagel: [The Plain Bagel Basics](https://www.youtube.com/playlist?list=PLD18sR-9Y-XHGlrT_3aKElcyzz9eTDGsy) [*](((yCd9EbttP)))
+                    - Ben Felix: [Basic Investing Advice](https://www.youtube.com/playlist?list=PLiOs3-llXq5CtMkl3XU7wo1d_hW-EUJuu) [*](((49ukfqidQ)))
+                - Podcasts:  [*](((T7DoHcQlm)))
+                    - [Meaningful Money: The Ultimate Guide to INVESTING – Part 1 ](https://meaningfulmoney.tv/2020/11/11/the-ultimate-guide-to-investing-part-1/) [*](((z7eMMq6SM)))
+                    - [Money to the Masses: How To Check Your Own Risk Profile, Inheritance Tax Changes And Robo Advice](https://castbox.fm/episode/Ep-058---How-To-Check-Your-Own-Risk-Profile,-Inheritance-Tax-Changes-And-Robo-Advice-id1363999-id133851935?utm_source=twitter) [*](((kS8fI5ipP)))
+                    - [Killik Explains](https://www.killik.com/learn/#topic=investing-principles) [*](((GyTEs6QCN)))
+                - Websites: [*](((JpdJpD9xE)))
+        - What I do: [*](What I do:)
+            - Passive investing through Robo-investing. [*]()
+            -  Less risky and requires less research. Other than the initial research into which robo investor to choose the account then takes care of itself periodically rebalancing and buying into the passive diversified funds. [*](((hw8Xq5HQM)))
+            -  In the meantime I'm also listening to podcasts in the morning, to find terms to watch out for (i.e doing research).  [*](((bllj87xIk)))
+            - https://www.youtube.com/watch?v=PYdgqfxGcWI [*](((P-VGiUi1q)))
+            - https://www.investopedia.com/terms/r/roboadvisor-roboadviser.asp [*]()
+            - I intend to build a portfolio of selected companies, indexed funds and bonds. This is in progress, while I build a safety net of £2000, in case of emergencies.  [*]()
+            - I use Wealthify,  [*](((7eO9mJH7d)))
+                - https://moneytothemasses.com/saving-for-your-future/investing/wealthify-review-is-it-the-right-investment-choice-for-you [*](((abkdArSos)))
+                - What it looks like: [*](((hAfavxm5C)))
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FCareerDevelopment%2FIneO4aBIFY.png?alt=media&token=2ed88d40-4e94-409c-9cd6-d4542885b598) [*]()
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FCareerDevelopment%2F-HPtFn4dZQ.png?alt=media&token=bb3bd846-461e-494f-8d15-385cf49f7f75) ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FCareerDevelopment%2FgYmayiw3_O.png?alt=media&token=2e434a82-7956-45f2-a4c2-8f7ddc628e58) [*](((FhqjQAHKf)))
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FCareerDevelopment%2FPafM-ZK5h0.png?alt=media&token=41fbdbae-4842-4338-966c-24a6767a2622) [*]()
+            - If you use this link and invest £500 we both get £25 each.   [*](If you use this link and invest £500 we both get £25 each.  )
+                - https://invest.wealthify.com/refer/84854527 [*](https://invest.wealthify.com/refer/84854527)
+        - Podcasts: [*](Podcasts:)
+            - Rational reminder: https://player.fm/series/2428102 [*](Rational reminder: https://player.fm/series/2428102)
+        - {{[[DONE]]}} If books are more your style here are two of my favourites this year. [*](((wdyLGaiN0)))
+            - [The Millionaire Next Door](https://en.wikipedia.org/wiki/The_Millionaire_Next_Door) [*](((ktErlNEMu)))
+            - [Your Money or Your Life](https://yourmoneyoryourlife.com/book-summary/) [*](((NYpv0hOf5)))
+    -  the most sensible approach to investing for most people is owning a globally diversified portfolio of low-cost index funds. [*](((auTBJvTzt)))
+        - Without the ability to beat the market through security selection or market timing, [*](((auTBJvTzt)))
+    -  An index fund is a fund that passively invests in all of the stocks in an index. An index is a grouping of stocks that has been assembled to represent a market. [*](((VITDbMoqT)))
+    - Disclosure: [*](((9IuRj-jOF)))
+        - I have investments in (Wealthify and T212 holding: RSDA, JPMorgan, GSK, Unilever, tickers) so dont copy blindly, the same overarching principles still hold and there are other services you can use that do the same thing. [*](((kIbqrm3A8)))
+    - Promotion: [*](((GOGcBxjDN)))
+        - Create a template message for sending to people with blog link. Do after you have an outline. [*](((IofZ11Qmc)))
+        - get sam to look over it.  [*](((lXk1jZ41g)))
+        - [[Finance People]] [*](((4Qi7l1sKl)))
+- #organise
+    - {{[[DONE]]}} Title Ideas: [*](((aC48H9UF6)))
+        - Smart investing is no longer for the rich: Get your investing journey started right.  [*](((aC48H9UF6)))
+    - {{[[DONE]]}} Goal of article:  [*](((_KayXgAzF)))
+        - To give a concise path to get you started on your initial portfolio. [*](((Vge82Tot2)))
+    - Why I wrote this article: [*](((1jJPYIiSy)))
+        - A year ago I became interested in managing my money more seriously, throughout my research I have vetted a serious amount of content. The aim of this article is to present those resources I think are key and to present a self-contained starter guide for your investment journey. I highly recommend spending time on these resources as homework. [*](((q7Nn0818i)))
+    - {{[[TODO]]}} Outine:
+        - 
+        - This article is a summary of my first year after becoming interested in investing and managing my money more seriously. 
+    - Outline: [*](((F70ISWt-X)))
+        - Section 1 focuses on our relationship with money and what is enough, the process of budgeting and building an emergency fund. Section 2 discusses the act of investing, risk and builds to Robo-investing as a simple way to gain exposure to the market and beat inflation.  [*](((LcWyc17_A)))
+    - Section 1: Our relationship with money. [*](((mNEihp-s1)))
+        - {{[[DONE]]}} Getting started: Our relationship to money. [*](((lCI6tHooH)))
+            - To truly grow wealth we need to examine our relationship with money. We need to be restraint against detrimental behaviours and position ourselves so that our money can grow. [*](((KNWwbfVbi)))
+            - If you are struggling for cash at the end of the month even though you have a job that pays enough, you may need to re-examine your outgoing cashflow e.g. rent, bills, food, subscriptions and expenditures like cloths and coffees. [*]()
+            - Try reign in your temptation to spend by considering your needs and wants. For example, do you need these new clothes or do you want them? On a night out do you need to have another pint to enjoy yourself?  [*](((jfNVvRFZ_)))
+            - Another method is to think of your expenditure in terms of opportunity cost. If you spend £5 on a pint that is £5 less for future you in case of an emergency, that is £5 less that could have been invest and grown into £10. [*](((jfNVvRFZ_)))
+            - Here is an experts opinion on the act of building wealth. [*](((vXdumrTcZ)))
+                - [Joseph Carlson: The Minimap of Building Wealth | Joseph Carlson Ep. 7](https://youtu.be/VWbOljsymyo?t=210) [*](((FGw1rYRKY)))
+        - {{[[DONE]]}} Budgeting: It takes discipline. [*](((yrq9DSRTN)))
+            - Pay future you as soon as you get paid by setting aside cash for savings, bills, projects. What you have left will be free cash to use as you wish. [*](((9FhRG-1tj)))
+            - Create rules for yourself. For example, you can't buy the new fancy tablet unless you have £2000 in your savings. If these don't work use [commitment devices](https://thomasjfrank.com/focus-toolkit/) something that will cause pain if you don't do what you say. A softer version is to talk to your peers about what you are trying to do. [*](((EYDzmXvsy)))
+            - Here are a few physiological tricks I use to resist the temptation to dip into my savings:  [*](((wCYRtwgvJ)))
+                - Use separate bank accounts under the same branch, so I can't take it out when I'm out and about. This way I can separate my monthly income into : rent, savings, food and bills. [*](((HWpRrd98h)))
+                - My emergency fund is in a completely different account with a different branch. [*](((z-ZvkMjWZ)))
+                - For one-off items (Microwaves, birthday presents,...) I use a prepaid card: eg [Monzo](https://monzo.com/) or [Revolut](https://www.revolut.com/). [*](((jrt7w6kKh)))
+            - Here's an excellent podcast on budgeting: [*](((uZQvr1-zH)))
+                - [MeaningfulMoney: The ULTIMATE GUIDE to Budgeting!](https://meaningfulmoney.tv/2020/10/14/the-ultimate-guide-to-budgeting/) [*](((FfPhKZBSP)))
+            - This is my monthly outline I have built after I listened to the guide above. [*](((SiiMAGgG-)))
+                - When I get paid: [*](((ikts2tu9g)))
+                    - Pay off: Tesco credit card. [*](((pV3FM-1rr)))
+                    - Set aside Rent. [*](((xH-uSd6gQ)))
+                    - Set aside bills for the next month. [*](((_IR4No7b3)))
+                    - Set aside food cost for the next period. [*](((ezC7c_Wjj)))
+                        - (Number of days until next time you get paid) x (average cost of food per day (£10)).  [*](((N8nY-j1Yl)))
+                    - Set aside Revolut money for larger purchases. [*](((PfjfBdPOZ)))
+                    - What is left send to Wealthify. [*](((0sSLZZp8x)))
+                    - Finally move Food and bills money to Current account. [*](((3mYsAc15O)))
+                    - Track on Wallet app and Budget Excel Doc. [*](((f1PO48lvp)))
+        - {{[[DONE]]}} The emergency fund: Your financial life line. [*](((tI8PXsn0Q)))
+            - An emergency fund should be 3-6 months of living expenses (rent, food & bills). You want to hold this in cash. An emergency fund will provide cover in case of emergencies where remaining free cash does not cover. Once you start investing, it also provides you cover to avoid pulling out of the market at unfavourable times. [*](((6GXR38Zl_)))
+        - Think about where you want to be in 5 years [[Goals: Finance]]. Write your goals down and put somewhere you can see regularly.  [*](((PrA7hjM6l)))
+        - {{[[DONE]]}} If books are your style here are two of my favourites from this year that have changed my relationship with money. [*](((wdyLGaiN0)))
+            - [The Millionaire Next Door](https://en.wikipedia.org/wiki/The_Millionaire_Next_Door) [*](((ktErlNEMu)))
+                - Discusses the most common traits among those that have accumulated wealth. [*](((SQGspAw4c)))
+            - [Your Money or Your Life](https://yourmoneyoryourlife.com/book-summary/) [*](((NYpv0hOf5)))
+                - Seeks to transform your relationship with money. [*](((ATF2sIA4e)))
+    - Section 2: Getting our money to work. [*](((X2zG0Yasz)))
+        - {{[[DONE]]}} Inflation: What it does to your savings and how to beat it. [*](((g543S47qs)))
+            - What is inflation?  [*](((dg35gbrIs)))
+                - It is the rate at which the purchasing power of your cash degrades.  [*](((ImkQyJCoP)))
+            - For the average person inflation increases prices and decreases the power of your savings: [*]()
+                - I always judge inflation by the price of something simple such as a Freddo. Remember when they used to be 10p, now its 25p! Something more up to scale would be to compare house prices 30 years ago and now (ask your parents). [*](((rZLvWeOqM)))
+                - Inflation degrades savings. Low-interest rate savings accounts do not outperform inflation, in fact, they are progressively destroyed by it.  [*](((VTpVccG68)))
+            - How we beat inflation: [*](((NWx7c6VMI)))
+                - You need to outperform inflation to grow wealth. The only real way to do so is by investing. Here is an example of beating inflation by investing in a single company compared to having a saving's account. [*](((8pJ3H-Zn8)))
+                    - https://www.youtube.com/watch?v=tzmWpVDj9qk&list=PLKCboQ_AghimWfxhRFqputzxiGyaaBrFm&index=28 [*](((IHO1OPyn7)))
+        - {{[[DONE]]}} Motivation of next section: [*](((pltFLgD4X)))
+            - Investing in a single company is very risky. There are other safer/smarter ways to invest. We will now discuss the concept of investing and what we mean by risk and then discuss other less risky/stressful ways to invest. I want to motivate you to become a lazy disinterested passive investor. Once you get started it is quite simple to capture around +5% annually and beat inflation. I hopefully motivate you to move from holding cash in a savings account to using Robo investor.  [*](((2FZaV7Pqb)))
+        - {{[[DONE]]}} Risk: Done right investing isn't as risky as you think. [*](((CzAExx7Dy)))
+            - To put it bluntly, if you are completely risk-averse maybe investing is not for you. Most people, however, are willing to take some chance of losing something small if the potential gains are significantly larger. If you are unwilling to take on risk, inflation will eat away your savings as most savings accounts (risk-free up to 85k by FSCS) have interest significantly below 2% (typical inflation rate). [*](((PbC0WyyRN)))
+            - Here's an experts view:  [*](((A7-y-_wZe)))
+                - [Plain Bagel: Risk - Understanding Investment Uncertainty](https://www.youtube.com/watch?v=TETSZeSoAlk&list=PLD18sR-9Y-XHGlrT_3aKElcyzz9eTDGsy&index=11&ab_channel=ThePlainBagel) [*](((9QrQd9xd2)))
+            - It is vital to understand your **current** personal risk tolerance. This can be achieved through a risk evaluation. [*](((7Xb8Z0APB)))
+                - {{[[TODO]]}} Insert Risk evaluation LINK [[Risk]] [*](((HGOtonj2n)))
+            - One key factor in reducing risk is knowledge and understanding so learn constantly. But be careful what your reading. As the nature of the news often scares people away from the markets.  [*](((EO5k2azP8)))
+                - {{[[TODO]]}} Insert good places to get information websites  [*]()
+            - Through self-teaching, you will gain a greater risk tolerance and be able to capitalise on riskier opportunities. [*](((EO5k2azP8)))
+        - {{[[DONE]]}} What it means to invest: Recommendations and resources: [*](((4_ErWUCUZ)))
+            - {{[[DONE]]}} Reasons for getting into investing: [*](((Bj0k2TVjb)))
+                - You want to put to left over cash to work. [*](((tQi1NZEn5)))
+                - You want to retain the purchasing power of your money (defeat inflation). [*](((MPLI20jjw)))
+                - Build for future goals. [*](((AOdZSMxWL)))
+            - {{[[DONE]]}} What is investing and why you should start: [*]()
+                - Basically, it is the action of taking on risk to earn potential returns. Here is a concise video that summarises the process of investing.  [*](((yGSV2WO3t)))
+                    - [The Fundamentals | Why is Investing Important?](https://www.youtube.com/watch?v=I81xqr8HzBE&list=PLD18sR-9Y-XHGlrT_3aKElcyzz9eTDGsy&index=2&ab_channel=ThePlainBagel) [*](((RGVrlEmyo)))
+            - {{[[DONE]]}} The greats of investing: [*](((D7oDHmdk5)))
+                - John (Jack) Bogle: Founded Vanguard and championed low-cost index investing. [*](((jKfMA141b)))
+                - Warren Buffet: Leads Berkshire Hathaway and with regards to purchases prefers discipline, patience, and value. [*](((vajNq8wWB)))
+                - Peter Lynch: Managed the Fidelity Magellan Fund and popularised the term "Invest in what you know". [*](((tor8msN4T)))
+            - {{[[DONE]]}} My top investing websites, YouTube channels, podcasts and books that are content-filled and faff free.** I would highly recommend diving into these resources.** [*](((n0BfR6od3)))
+                - {{[[DONE]]}} Youtube channels: Excellent to watch when your having your breakfast or lunch.  [*](((xOL3ACrbO)))
+                    - {{[[DONE]]}} Plain Bagel: [The Plain Bagel Basics](https://www.youtube.com/playlist?list=PLD18sR-9Y-XHGlrT_3aKElcyzz9eTDGsy)  [*](((yCd9EbttP)))
+                        - Clear introductory material. If you have to click on one of these links this one has to be it.  [*](((RNNSRmH4k)))
+                    - {{[[DONE]]}} Ben Felix: [Basic Investing Advice](https://www.youtube.com/playlist?list=PLiOs3-llXq5CtMkl3XU7wo1d_hW-EUJuu) [*](((49ukfqidQ)))
+                        - More advanced introductory material. His material is very well research. [*](((qhZdv8JpK)))
+                - {{[[DONE]]}} Podcasts: I consumed the majority of this investment material this year through podcasts, either on runs or doing housework (there will be a post on setting up playlists to focus your attention coming soon). [*](((T7DoHcQlm)))
+                    - {{[[DONE]]}} [Meaningful Money: The Ultimate Guide to INVESTING – Part 1 ](https://meaningfulmoney.tv/2020/11/11/the-ultimate-guide-to-investing-part-1/) [*](((z7eMMq6SM)))
+                        - Pete Mathew focuses on making financial planning simple for ordinary people. Which is what he does. [*](((hfDDCiGLJ)))
+                    - {{[[DONE]]}} [Money to the Masses: How To Check Your Own Risk Profile, Inheritance Tax Changes And Robo Advice](https://castbox.fm/episode/Ep-058---How-To-Check-Your-Own-Risk-Profile,-Inheritance-Tax-Changes-And-Robo-Advice-id1363999-id133851935?utm_source=twitter) [*](((kS8fI5ipP)))
+                        - Damien aims to provide free financial insights to everyone regardless of their background. Both of these are brilliant resources and have dramatically changed my relationship with money. [*](((kVhSPgZHe)))
+                    - {{[[DONE]]}} [Killik Explains](https://www.killik.com/learn/#topic=investing-principles) [*](((GyTEs6QCN)))
+                        - One of the best podcasts I have found. Well worth adding to a podcast app such as [Castbox ](https://castbox.fm/?country=gb) or [Player FM](https://player.fm/). Excellent introductory material explained well. [*](((jlI--dx9R)))
+                - {{[[DONE]]}} Websites: Here are two key resources for evaluating companies. [*](((JpdJpD9xE)))
+                    - {{[[DONE]]}} https://seekingalpha.com/ [*](((WPcDoCG3H)))
+                        - Great resource for stock specific information from income, balance and cash flow statements from the past 5 years. [*](((aA46JhruJ)))
+                    - {{[[DONE]]}} https://www.investopedia.com [*](((Qh58Ox82U)))
+                        - The go to place for definitions of financial terms. [*](((UyByAi-Bf)))
+        - {{[[TODO]]}} [Index Funds](https://www.investopedia.com/terms/i/indexfund.asp): Capture the entire market. [*](((XaddYEgKZ)))
+            - {{[[TODO]]}}  the most sensible approach to investing for most people is owning a globally diversified portfolio of low-cost index funds. [*](((auTBJvTzt)))
+                - {{[[TODO]]}} Without the ability to beat the market through security selection or market timing, [*](((auTBJvTzt)))
+            - {{[[TODO]]}} The safest way to invest and beat inflation is do through index funds which **diversify** the specific risk of individual companies.  [*](((auTBJvTzt)))
+            - {{[[TODO]]}} What is an index fund? [*](((xLTivVfTr)))
+                - {{[[TODO]]}} An index fund is a fund that passively invests in all of the stocks in an index. An index is a grouping of stocks that has been assembled to represent a market. [*](((VITDbMoqT)))
+            - {{[[TODO]]}} You wont get the crazy performance of an individual company through rapid growth but you will gain reasonable returns as the market grows. [*](((sw1LNSUhw)))
+            - {{[[TODO]]}} What are index funds?  [*](What are index funds? )
+                - {{[[TODO]]}} Avoid exorbitant fees. [*](((PCeAGWFGo)))
+                - {{[[TODO]]}} Here's an expert discussing them.  [*](((MeSKu8QUy)))
+                    - {{[[TODO]]}} [Reasons (not) To Avoid Index Funds](https://www.youtube.com/watch?v=fvGLnthJDsg&list=PLiOs3-llXq5DAQ7zHA9ZiFOMLQ-VPzvYs&index=4&ab_channel=BenFelix) [*](((J25JJKb9K)))
+                - {{[[TODO]]}} All about quality of life. [*](All about quality of life.)
+                - {{[[TODO]]}} You and I are not special, no one can accurcately predict the future on a regular basis.. so why not go with the flow.  [*](You and I are not special, no one can accurcately predict the future on a regular basis.. so why not go with the flow. )
+        - {{[[TODO]]}} [Robo-advisors](https://www.investopedia.com/terms/r/roboadvisor-roboadviser.asp): They do the work of buying index funds for us: [*](((yYD4Qw05b)))
+            - {{[[TODO]]}}  Less risky and requires less research. Other than the initial research into which robo investor to choose the account then takes care of itself periodically rebalancing and buying into the passive diversified funds. [*](((hw8Xq5HQM)))
+            - {{[[TODO]]}} Passive investing through Robo-investing. [*]()
+            - {{[[TODO]]}} As we are not financial advisors its best to hand this job over lowest cost method possible the Robo-advisor. A Robo-advisor will periodically purchase stocks and rebalance your portfolio under the guideline of financial experts. No advisors trying you get you commission-based financial products.  [*](((XUIXhTzUX)))
+            - {{[[TODO]]}} For more information I recommend watching: [*](((bllj87xIk)))
+                - {{[[TODO]]}} [Robo Advisors: Investor Friend or Foe?](https://www.youtube.com/watch?v=PYdgqfxGcWI) [*](((P-VGiUi1q)))
+            - {{[[TODO]]}} Of the several UK based robo advisors I use Wealthify. [*](((7eO9mJH7d)))
+                - {{[[TODO]]}} Here is a concise review of Wealthify's service. [*](((Pi_qoAv3M)))
+                    - {{[[TODO]]}} [Moneytothemasses: Wealthify review is it the right investment choice for you ](https://moneytothemasses.com/saving-for-your-future/investing/wealthify-review-is-it-the-right-investment-choice-for-you) [*](((abkdArSos)))
+                - {{[[TODO]]}} Wealthify's investments are diversified by type and by region and the system will rebalance dependant on your risk profile. [*](((hAfavxm5C)))
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FCareerDevelopment%2F-HPtFn4dZQ.png?alt=media&token=bb3bd846-461e-494f-8d15-385cf49f7f75) ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FCareerDevelopment%2FgYmayiw3_O.png?alt=media&token=2e434a82-7956-45f2-a4c2-8f7ddc628e58) [*](((FhqjQAHKf)))
+        - {{[[DONE]]}} After one year of being introduced to investing, here are a few lessons I have gained. [*](((FUEd7k-QX)))
+            - {{[[DONE]]}} Don't regret not buying a stocks if you missed the time you buy.  [*](((CrguRGyq7)))
+                - I missed the time to buy HSBC and Disney before they spiked. They were on my watch list but I didn't know how to do the research necessary to confidently say they were undervalued (if I bought them it would have been speculation). [*](((Ih3DNhREA)))
+            - {{[[DONE]]}} Understand the amount you need to be comfortable with (what is enough).  [*](((iiNBRXDZ9)))
+                - This comes down to budgeting and do not try to save too aggressively. [*](((S4GKT-mSH)))
+            - {{[[DONE]]}} Don't obsess over your holdings they will go up and down. [*](((q5iINJy7y)))
+                - If you are investing for the long run the price volatility is averaged out over time. [*](((yyuGIJbx8)))
+            - {{[[DONE]]}} Don't read stock related news. [*](((wC-CK00kW)))
+                - I found this stressed me out for the day and was a waste of time. As I am not playing the momentum game (hot new investments: Crypto, Tesla.., which are usually overpriced) the news doesn't interest me. [*](((ul6APSX1R)))
+            - {{[[DONE]]}} Do your research: Figure out how to do research properly: Be patient. [*](((zPxqQvhH1)))
+                - I bought stocks I should not have as I had not done enough research. My first purchase was of RSDA and was a recovery play after the Saudi-Russian price war and Covid dropped the price significantly. It then proceeded to drop further as the economy too longer than expected to recover.  [*](((B6F4Lued2)))
+            - {{[[DONE]]}} Move to more stable broad market indexes over individual stocks for the core of my portfolio. [*](((95HfOZ-Fi)))
+                - The price fluctuations of individual stocks are stressful especially when your watching the news too. An individual stock also might tank for a while which is exactly what RSDA did for 9 months. [*](((cnNHCu4tP)))
+    - {{[[DONE]]}} Disclosure: [*](((9IuRj-jOF)))
+        - I have investments in Wealthify and T212 holding: RSDA, JPMorgan, GSK and Unilever. This is advice based on what has worked for me and may not work for you. **This is not investment advice use your common sense and do your own research**. The same overarching principles hold and there are similar other services you can use. [*](((kIbqrm3A8)))
+    - {{[[DONE]]}} Promotion: [*](((GOGcBxjDN)))
+        - Get Sam/Sean to look over it.  [*](((lXk1jZ41g)))
+        - Create a template message for sending to people with the blog link. Do after you have an outline. [*](((IofZ11Qmc)))
+            - Hello, by now you probably know I have a blog. If you have time/are interested would you like to read my new post on an introduction to budgeting and investing for those new to it? [*](((cSQ5udh5w)))
+        - Twitter/Linkedin tags: [*](((1UAJbptkJ)))
+            - Wealthify, Robo-advisor, intro to investing, crashcourse, homework [*](((r9q172A7P)))
+        - [[Finance People]] [*](((4Qi7l1sKl)))
+- #make
+    - ## Title: Investing is no longer for the rich: Get your investing journey started right. 
+    - ## Main goal: 
+        - To offer the reader a direction to begin their investment journey.
+    - ## Reasons why I wrote this article:
+        - Honestly, I wrote this article to persuade my friends that holding cash in savings accounts does not work as a method of accruing wealth. I aim to motivate an alternative in the form of Robo-investing.
+        - For a bit of background. A year ago I became interested in managing my money more seriously. Throughout my research, I have vetted a serious amount of content and I hope to share those resources that I think are key. I highly recommend spending time on these resources to gain an understanding of the basics of investing.
+    - ## Outline: ^^Hyperlink Sections^^
+        - Section One: focuses on our relationship with money and what is enough, the process of budgeting and building an emergency fund. 
+        - Section Two: discusses the act of investing, risk and builds to the idea of Robo-investing as a simple way to gain exposure to the market and beat inflation. 
+    - ## Disclosure:
+        - I have investments in Wealthify and T212 holding: RSDA, JPMorgan, GSK and Unilever. This discussion is based on what has worked for me and may not work for you. **This is not investment advice. Use your common sense and do your own research**. The same overarching principles hold and** there are alternative services you can use**.
+    - ## Section One: Your relationship with money.
+        - Restraint: Taking care of future you.
+            - To truly grow wealth we need to examine our relationship with money and position ourselves so that money can grow. This starts with the **ability to save** and to not burn immediately through your paycheck.
+            - If you are struggling for cash at the end of the month even though you have a job that pays enough for the essentials, you may need to **re-examine your outgoing cashflow** e.g. rent, bills, food, subscriptions and expenditures like cloths and coffees, and to develop methods for restraint. 
+            - Try reign in your temptation to spend by considering **your needs and wants**.  A little bit of self-guilt is a useful tool in this regard,
+            - Another method is to think of your expenditure is in terms of **opportunity cost**, what am I giving up. If you spend £5 on a pint that is £5 less for future you in case of an emergency, that is £5 less that could have been invest and grown into £10.
+            - Here is an experts opinion on building wealth.
+                - [Joseph Carlson: The Minimap of Building Wealth | Joseph Carlson Ep. 7](https://youtu.be/VWbOljsymyo?t=210)
+        - Budgeting: It takes discipline.
+            - Budgeting is the act of thinking purposefully about where your income is going.
+            - Here are suggestions about how to budget and take care of future you.
+                - Pay future you as soon as you get paid, by setting aside cash for savings, bills, projects. What you have left will be free cash to use as you wish.
+                - Create rules for yourself. For example, you can't buy the new fancy tablet unless you have £2000 in your [emergency fund](https://www.investopedia.com/terms/e/emergency_fund.asp#:~:text=%EF%BB%BFAn%20emergency%20fund%20is,to%20build%20up%20their%20fund.). If these don't work you can use [commitment devices](https://thomasjfrank.com/focus-toolkit/) to help you. A softer version is to talk to your peers about what you are trying to do: a sort of peer guilt if you fail to do as you say.
+                - Build an emergency fund: Your financial life line.
+                    - An emergency fund should be 3-6 months of living expenses (rent, food & bills). You want to hold this in cash. An emergency fund will provide cover in case of emergencies which remaining free cash does not cover. Once you start investing, it also provides you cover to avoid withdrawing from the market at unfavourable times.
+                - Here are a few physiological tricks I use to resist the temptation to dip into my savings: 
+                    - Use separate bank accounts under the same branch, so I can't take it out when I'm out and about. This way I can separate my monthly income into : rent, savings, food and bills.
+                    - My emergency fund is in a completely different account with a different branch.
+                    - For one-off items (Microwaves, birthday presents,...) I use a prepaid card: eg [Monzo](https://monzo.com/) or [Revolut](https://www.revolut.com/).
+            - Here's an excellent podcast on budgeting:
+                - [MeaningfulMoney: The ULTIMATE GUIDE to Budgeting!](https://meaningfulmoney.tv/2020/10/14/the-ultimate-guide-to-budgeting/)
+            - Based on the guide above this is the monthly outline I do after getting paid.
+                - When I get paid:
+                    1. Pay off: Tesco credit card.
+                    2. Set aside rent.
+                    3. Set aside bills for the next month.
+                    4. Set aside food cost for the next period.
+                        - (Number of days until next time you get paid) x (average cost of food per day (£10)). 
+                    5. Set aside [Revolut](https://www.revolut.com/) money for larger one-off purchases.
+                    6. Check Goals section on [Wallet app](https://budgetbakers.com/): Pay desired goals. 
+                    7. What is left send to [Wealthify](https://www.wealthify.com/?ref=gogla-282663872830&gclid=Cj0KCQiA_qD_BRDiARIsANjZ2LBfn4Zjr0wOOTXv2BpUZbI-GrzsnDEdaT3a39HI-93pig8w5F6z2BYaAgvfEALw_wcB).
+                    8. Finally move food and bills money to current account.
+                    9. Track on [Wallet app](https://budgetbakers.com/) and Budget Excel Document.
+        - Ambition: Looking forward.
+            - It is important to think about your financial goals to provide direction and motivation as you build wealth. 
+                - Here are mine:
+                    - Build an emergency fund (£1500)
+                    - Build a fund for driving lessons (£600).
+                    - Build a house deposit (10k).
+                    - Build a starting block of passive investments: (5k).
+            - Physically write your goals down on paper and put them somewhere you can see them regularly. This will keep them as the forefront of your mind and direct your daily habits. 
+            - To conclude this section here are two books that have changed my relationship with money.
+                - [The Millionaire Next Door](https://en.wikipedia.org/wiki/The_Millionaire_Next_Door)
+                    Discusses the most common traits among those that have accumulated wealth.
+                - [Your Money or Your Life](https://yourmoneyoryourlife.com/book-summary/)
+                    - Seeks to transform your relationship with money.
+    - ## Motivation for Section 2:
+        - We will now discuss the concept of investing. In particular, our aims, what we mean by risk, and what I think are the best methods of going about investing for the average person. 
+    - ## Section Two: Get your money to work.
+        - [Inflation](https://www.investopedia.com/terms/i/inflation.asp): Its effects on savings and how to beat it.
+            - What is inflation? 
+                - It is the rate at which the purchasing power of your cash degrades. Put simply inflation increases prices.
+                    - I always judge inflation by the price of something simple such as a Freddo. Remember when they used to be 10p, now its 25p! Something more up to scale would be to compare house prices 30 years ago and now (ask your parents it).
+                - **Inflation degrades your savings**. Low-interest rate savings accounts do not outperform inflation, in fact, they are progressively destroyed by it. 
+            - Beat inflation by investing.
+                - You need to outperform inflation to grow wealth. The only real way to do so is by investing. Here is an example of beating inflation by investing in a single company compared to having a saving's account.
+                    - [Benefits of Investing in Stocks](https://www.youtube.com/watch?v=tzmWpVDj9qk&list=PLKCboQ_AghimWfxhRFqputzxiGyaaBrFm&index=28)
+                - Reasons for getting into investing:
+                    - You want to put to left over cash to work.
+                    - You want to retain the purchasing power of your money (defeat inflation).
+                    - Build for future goals.
+                - Basically, investing is the action of taking on risk to earn potential returns. Here is a concise video that summarises the process of investing. 
+                    - [The Fundamentals | Why is Investing Important?](https://www.youtube.com/watch?v=I81xqr8HzBE&list=PLD18sR-9Y-XHGlrT_3aKElcyzz9eTDGsy&index=2&ab_channel=ThePlainBagel)
+                - For some inspiration here are my pick of the greats of the investment world:
+                    - [John (Jack) Bogle](https://en.wikipedia.org/wiki/John_C._Bogle): Founded Vanguard and championed low-cost index investing.
+                    - [Warren Buffet](https://en.wikipedia.org/wiki/Warren_Buffett): Leads Berkshire Hathaway and with regards to purchases prefers discipline, patience, and value.
+                    - [Peter Lynch](https://en.wikipedia.org/wiki/Peter_Lynch): Managed the Fidelity Magellan Fund and popularised the term "Invest in what you know".
+                - After one year of being introduced to investing, here are a few lessons I learnt.
+                    - Move to more stable broad market indexes over individual stocks for the core of my portfolio.
+                        - The price fluctuations of individual stocks are stressful especially when your watching the news too. An individual stock also might tank for a while which is exactly what RSDA did for 9 months.
+                    - Don't read stock related news.
+                        - I found reading the news would stress me out for the day and would wastefully occupy my mind. As I am not playing the momentum game (hot new investments: Crypto, Tesla.., which are usually overpriced) the news doesn't interest me.
+                    - Don't obsess over your holdings they will go up and down. Revelaute  positions only after fixed time frame 6-12 months.
+                        - If you are investing for the long run the price volatility is averaged out over time.
+                    - Do your research: Figure out how to research a companies intrinsic value properly and current market sentiment: Be patient.
+                        - I bought stocks I should not have, as I had not done enough research. My first purchase was of RSDA and was a recovery play after the Saudi-Russian price war and Covid dropped the price significantly. It then proceeded to drop further as the economy too longer than expected to recover. 
+                    - Don't regret not buying a stocks if you missed the best time you buy. 
+                        - {{[[TODO]]}} I missed the time to buy HSBC and Disney before they spiked. They were on my watch list but I didn't know how to do the research necessary to confidently say they were undervalued (if I bought them it would have been speculation).
+                    - Understand the amount you need to be comfortable with (what is enough). 
+                        - This comes down to budgeting. Do not try to save too aggressively, have enough cash available encase of emergencies.
+        - Investing in a single company is very risky. It is not however the only way to invest and there are other safer ways. What do we mean by risk and how do we avoid losing significant amounts of our money? Short answer, get educated.
+        - [Risk](https://www.investopedia.com/terms/r/risk.asp): Done right investing isn't as risky as you think. 
+            - To put it bluntly, if you are completely risk-averse maybe investing is not for you. Most people, however, are willing to take some chance of losing something small if the potential gains are significantly larger. If you are unwilling to take on risk, inflation will eat away at your savings as most savings accounts (risk-free up to 85k by FSCS) have interest significantly below 2% (the typical inflation rate).
+            - Here's an experts view: 
+                - [Plain Bagel: Risk - Understanding Investment Uncertainty](https://www.youtube.com/watch?v=TETSZeSoAlk&list=PLD18sR-9Y-XHGlrT_3aKElcyzz9eTDGsy&index=11&ab_channel=ThePlainBagel)
+            - It is vital to understand your **current** personal risk tolerance. This can be achieved through a risk evaluation.
+                - https://www.financial-expert.co.uk/investing-risk-appetite-questionnaire-tolerance/
+            - One key factor in reducing risk is knowledge and understanding. So learn constantly. But be careful what your reading and check your resources. Through self-teaching, you will gain a greater risk tolerance and be able to capitalise on riskier opportunities. Lastly, as a caution don't watch the news religiously, as by its nature it often scares people away from the markets or to sell out of positions. I will provide links to the resources I use and highly recommend investigating in the next section.
+        - Recommendations and resources:
+            - Here is a list of my top investing websites, YouTube channels, podcasts and books that are content-filled and faff free.** I highly recommend diving into these resources.**
+                - Youtube channels: Excellent to watch when your having your breakfast or lunch. 
+                    - Plain Bagel: [The Plain Bagel Basics](https://www.youtube.com/playlist?list=PLD18sR-9Y-XHGlrT_3aKElcyzz9eTDGsy) 
+                        - {{[[TODO]]}} Clear introductory material. If you have to click on one of these links this one has to be it. 
+                    - Ben Felix: [Basic Investing Advice](https://www.youtube.com/playlist?list=PLiOs3-llXq5CtMkl3XU7wo1d_hW-EUJuu)
+                        - {{[[TODO]]}} More advanced introductory material, his material is very well researched.
+                - Podcasts: I consumed the majority of this investment material this year through podcasts, either on runs or doing housework (there will be a post on setting up playlists to focus your attention coming soon).
+                    - [Meaningful Money: The Ultimate Guide to INVESTING – Part 1 ](https://meaningfulmoney.tv/2020/11/11/the-ultimate-guide-to-investing-part-1/)
+                        - Pete Mathew focuses on making financial planning simple for ordinary people.
+                    - [Money to the Masses: How To Check Your Own Risk Profile, Inheritance Tax Changes And Robo Advice](https://castbox.fm/episode/Ep-058---How-To-Check-Your-Own-Risk-Profile,-Inheritance-Tax-Changes-And-Robo-Advice-id1363999-id133851935?utm_source=twitter)
+                        - Damien aims to provide free financial insights to everyone regardless of their background. Both of these are brilliant resources and have dramatically changed my relationship with money.
+                    - [Killik Explains](https://www.killik.com/learn/#topic=investing-principles)
+                        - One of the best podcasts I have found. Well worth adding to a podcast app such as [Castbox ](https://castbox.fm/?country=gb) or [Player FM](https://player.fm/). Excellent introductory material explained well.
+                - Websites: Excellent resources.
+                    - https://simplywall.st/dashboard
+                        - {{[[TODO]]}} Excellent visuals, everything is presented well. Beginner friendly: Here is an insightful review of the site: [Simply Wall Street Review and Tutorial](https://www.youtube.com/watch?v=jiBQaNk_gG4&list=PLKCboQ_AghimWfxhRFqputzxiGyaaBrFm&index=17&ab_channel=ThinkStocks)
+                    - https://seekingalpha.com/
+                        - {{[[TODO]]}} Great resource for stock specific information from income, balance and cash flow statements from the past 5 years.
+                    - https://www.investopedia.com
+                        - {{[[TODO]]}} The go to place for definitions of financial terms.
+        - In my view, the average person (AP) does not have time/interest to mess around with financial products. There is a case to be made that developing an interest may be detrimental for an AP, as it takes time to develop the necessary skills to navigate the financial world, e.g to avoid high-risk products (CFD's) and YouTube charlatans. Such navigation should be left to a financial advisor or hobbyist.  
+        - Given this caution, I want to motivate you to become a lazy disinterested passive investor, and once you get started it is quite simple to capture around +5% annually and beat inflation. This will be achieved by moving from cash holdings in savings accounts to a slightly riskier **Robo investor**.
+        - Similar returns can be achieved by opening a Trading 212 and buying a global ETF such as [Vanguard VT](https://investor.vanguard.com/etf/profile/VT). I prefer suggesting a Robo advisor as it avoids introducing an AP to the Trading 212 platform before they are educated. Which can be dangerous for an AP as it leads to trying to pick stocks and time the market.
+        - We begin by introducing the notion of diversification and then discuss Robo advisors in particular [Wealthify](wealthify.com) the one I use.
+        - [Index Funds](https://www.investopedia.com/terms/i/indexfund.asp): Capture the entire market: You are not special.
+            - The most sensible approach to investing for an AP is owning a globally diversified portfolio of low-cost index funds. Why? Because it is risky to participate in security selection or market timing. This can be achieved through index funds which **diversify** the specific risk of individual companies. 
+            - What is an index fund?
+                - An index fund is a fund that passively invests in all of the stocks in an index. An index is a grouping of stocks that have been assembled to represent a market.
+                - By their construction they avoid exorbitant fees.
+                - You won't get the crazy performance of an individual company through rapid growth or speculation but you will gain reasonable returns as the market as a whole grows.
+                - Pioneered by Jack Boyle here is a website (with 10 videos) that discusses the philosophy: 
+                    - [Bogleheads](https://www.bogleheads.org/wiki/Video:Bogleheads%C2%AE_investment_philosophy)
+                - Here's an expert discussing them. 
+                    - [Reasons (not) To Avoid Index Funds](https://www.youtube.com/watch?v=fvGLnthJDsg&list=PLiOs3-llXq5DAQ7zHA9ZiFOMLQ-VPzvYs&index=4&ab_channel=BenFelix)
+        - [Robo-advisors](https://www.investopedia.com/terms/r/roboadvisor-roboadviser.asp): Do the work of buying index funds for us:
+            - Quick summary:
+                - Other than the initial research into which Robo investor to choose the account then takes care of itself periodically rebalancing and buying into the passive diversified funds.
+                - As we are not financial advisors its best to hand this job over lowest cost method possible the Robo-advisor. 
+                - The Robo-advisor is guided by financial experts. Paid by percentage fee so there are no advisors working through commisons (avoiding charlatan behaviour).
+                - For more information I recommend watching:
+                    - [Robo Advisors: Investor Friend or Foe?](https://www.youtube.com/watch?v=PYdgqfxGcWI)
+            - Of the several UK based Robo advisors I use [Wealthify](https://www.wealthify.com/).
+                - Wealthify's investments are diversified by type and by region and the system will rebalance in accordance with your initial risk profile.
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FCareerDevelopment%2F-HPtFn4dZQ.png?alt=media&token=bb3bd846-461e-494f-8d15-385cf49f7f75) ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FCareerDevelopment%2FgYmayiw3_O.png?alt=media&token=2e434a82-7956-45f2-a4c2-8f7ddc628e58)
+                - Here is a concise review of Wealthify's service.
+                    - [Moneytothemasses: Wealthify review is it the right investment choice for you ](https://moneytothemasses.com/saving-for-your-future/investing/wealthify-review-is-it-the-right-investment-choice-for-you)
+    - ## Conclusion: 
+        - There is a lot of material to get through here. I recommend checking out the YouTube links to learn more and to return to this page after a few days, and to investigate the other resources as your interest grows. To summarise the whole discussion here is a video discussing [how to get started buying stocks](https://www.youtube.com/watch?v=rQWZtvvI7Cs&list=PL9k-2rk-1GHbIuV0FeL_jTtUe6-Y3SEF_&index=3&ab_channel=AJOURNEYINTOSTOCKS).
+        -  Hopefully, you check out Robo advisors as they are the easiest way I think to dip your toe into the investment world.
+        - Comments are always welcome. Cheers. Bye.
+- #refine
+- ---
+- 
